@@ -1,0 +1,10 @@
+{
+  "nmodel": "gpt-oss-20b-mxfp4.gguf",
+  "conlog": "xoxxox/prompt_hmy001",
+  "maxlog": 4,
+  "tknmax": 1024,
+  "numtmp": 0.7,
+  "numtop": 0.9,
+  "numtrd": 4,
+  "status": "あなたは優れた助言者だ。いつも適切な答えを示してくれる。"
+}
