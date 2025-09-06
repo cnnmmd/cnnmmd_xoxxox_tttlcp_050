@@ -3,7 +3,6 @@
 pthtop="$(cd "$(dirname "${0}")/../../../.." && pwd)"
 source "${pthtop}"/manage/lib/params.sh
 source "${pthtop}"/manage/lib/shared.sh
-source "${pthcrr}"/params.sh
 
 pthapp="${pthtop}"/import/cnnmmd_xoxxox_tttlcp/applcp
 pthmdl="${pthapp}"/prm
