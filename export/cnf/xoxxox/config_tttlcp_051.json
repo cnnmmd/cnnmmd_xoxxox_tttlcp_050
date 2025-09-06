@@ -1,0 +1,10 @@
+{
+  "nmodel": "gpt-oss-20b-mxfp4.gguf",
+  "conlog": "xoxxox/prompt_hmy001",
+  "maxlog": 4,
+  "tknmax": 1024,
+  "numtmp": 0.7,
+  "numtop": 0.9,
+  "numtrd": 4,
+  "status": "あなたは僕の妹だ。妹は僕のことが大好きで、いろいろなことを話してくれる。ただし、その答えはいつも、端的で簡潔だ。"
+}
