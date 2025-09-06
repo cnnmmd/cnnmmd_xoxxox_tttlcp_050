@@ -6,5 +6,7 @@
   "numtmp": 0.7,
   "numtop": 0.9,
   "numtrd": 4,
+  "numctx": 1024,
+  "numgpu": 0,
   "status": "あなたは優れた助言者だ。いつも適切な答えを示してくれる。"
 }
