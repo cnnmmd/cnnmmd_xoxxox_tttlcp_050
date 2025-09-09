@@ -1,8 +1,9 @@
 {
-  "nmodel": "gpt-oss-20b-mxfp4.gguf",
+  "expert": "xoxxox/tttlcp_sis051",
   "conlog": "xoxxox/prompt_hmy001",
   "maxlog": 4,
-  "tknmax": 1024,
+  "nmodel": "gpt-oss-20b-mxfp4.gguf",
+  "maxtkn": 1024,
   "numtmp": 0.7,
   "numtop": 0.9,
   "numtrd": 4,
